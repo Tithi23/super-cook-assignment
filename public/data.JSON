@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Fish Chef (Poissonier)",
+        "img": "https://c.stocksy.com/a/2cv400/z9/1174778.jpg",
+        "teacher": "Umar Farukh Shawrav",
+        "duration": "3 month",
+        "description": "Primary Task: Prepare and cook vegetables and starches They may also be responsible for some soups and egg dishes."
+    },
+    {
+        "id": 2,
+        "name": "Vegetable Chef (Entremetier)",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFOFnYsTiltmCz85lcqErlpzQSxD6xtzBS0g&usqp=CAU",
+        "teacher": "Mohsin Reza",
+        "duration": "2 month",
+        "description": "Primary Task: Prepare and cook vegetables and starches They may also be responsible for some soups and egg dishes."
+    },
+    {
+        "id": 3,
+        "name": "Meat Chef (Rotisseur, Roast Chef)",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkL1Lm9Wad2jGmiKswgTR4GyWYJsAEPnq74w&usqp=CAU",
+        "teacher": "Abu Fattah",
+        "duration": "3 month",
+        "description": "Primary Task: Prepare and cook meats by roasting, braising, broiling, or other methods They may also be in charge of obtaining the meat from local suppliers and retailers."
+    },
+    {
+        "id": 4,
+        "name": "Pantry Chef (Garde Manger)",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFOFnYsTiltmCz85lcqErlpzQSxD6xtzBS0g&usqp=CAU",
+        "teacher": "Sajal Khan",
+        "duration": "2 month",
+        "description": "Primary Task: Preparing cold food items like salads, cold cuts, hors d’oeuvres, and dressings They will also be responsible for setting up buffet lines and adding centerpieces for an upscale presentation that may include carved and molded ice or fruits."
+    },
+    {
+        "id": 5,
+        "name": "Fry Chef (Friturier)",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgQkwTry1Yv4jKnDI0MXFJiE9yuATzu-kKFQ&usqp=CAU",
+        "teacher": "Safa nur haque",
+        "duration": "4 month",
+        "description": "Primary Task: Cook foods that need to be fried They are mainly needed in fast food establishments."
+    },
+    {
+        "id": 6,
+        "name": "Grill Chef (Grillardin)",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgQkwTry1Yv4jKnDI0MXFJiE9yuATzu-kKFQ&usqp=CAU",
+        "teacher": "nihal haque",
+        "duration": "4 month",
+        "description": "Primary Task: Cook foods that need to be grilled They will generally grill meats and sometimes vegetables."
+    }
+]

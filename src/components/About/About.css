@@ -1,0 +1,11 @@
+.about-header{
+    background-color:rgb(33, 37, 41) ;
+    color: black;
+    
+    padding: 50px;
+}
+
+.about-img{
+    width: 600px;
+    border-radius: 20px;
+}

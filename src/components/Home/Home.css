@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+.heading-part{
+    /* background-image: url(../../images/bg.jpg); */
+
+    background-color: black;
+    color: white;
+    text-align: left;
+}
+
+.nav-text{
+    color: orange;
+}
+
+.main-heading {
+    padding: 110px;
+    font-size: 65px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+}
+
+.heading-p{
+font-size: 20px;
+font-weight: 200;
+}
+
+
+.heading-image{
+    border-radius: 20px;
+    padding: 50px;
+}
+
+.service-section{
+    background-color: #212529;
+    text-align: center;
+    padding: 40px; 
+}
+
+.section-heading{
+    font-size: 40px;
+    color: white;
+    font-weight: 700;
+    margin-bottom: 10px;
+    display: inline-block;
+    padding: 20px;
+}
+
+.special-text{
+    color: orange;
+}
+
+.details-btn{
+    background-color: orange;
+}
+
+
+.welcome-part{
+    background-color: black;
+    height: 900px;
+    text-align: center;
+    /* background-image: url(../../images/1633345830554.jpeg); */
+    color: white;
+}
+
+.welcome-section{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+ 
+
+    text-align: center;
+    grid-gap: 10px;
+}
+
+.student, .club-member{
+    border-right: 5px solid orange;
+    height: 500px;
+    padding: 40px;
+}
